@@ -1,16 +1,85 @@
 body {
-  background-image: url ("venecijapozadina.jpg");
+  background-image: url("slika/pinkpicture.jpg");
   background-repeat: no-repeat;
-  background-blend-mode: lighten;
+  background-blend-mode: darken;
   background-size: cover;
   background-position: center;
 }
 
-#title .title2 {
-  font-style: italic;
-  color: pink;
+#title {
+  size: 50px;
+  margin: 20px 100px;
+  background-color: black;
+  color: palevioletred;
+  padding: 30px;
+  border-radius: 30px;
+  border-color: blueviolet;
+  border-top: 10px;
+  border-width: 15px;
+  border-style: dashed;
+  font-size: 40px;
+  text-align: center;
+  position: fixed;
+  top: 1px;
+  right: 100px;
+  left: 100px;
 }
 
-.title3 {
-  color: antiquewhite;
+#title2 {
+  margin: 30px 70px;
+  min-width: fit-content;
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px 40px;
+  font-size: 30px;
+  font-style: italic;
+  border-style: dotted;
+  border: 10px 8px;
+  border-color: blue;
+  position: sticky;
+  top: 170px;
+  background-image: url(slika/venecija2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.picture {
+  margin: 150px 60px;
+  text-align: center;
+  padding: 60px;
+  border: 80px 60px;
+  box-sizing: border-box;
+  border-style: inset;
+  border-color: black;
+  background-color: azure;
+}
+#title3 {
+  text-align: center;
+  text-decoration: wavy;
+  text-shadow: black;
+  font-size: 40px;
+  margin: 30px 60px;
+}
+form {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: peachpuff;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 250px;
+}
+label {
+  font-weight: bold;
+}
+input {
+  width: 100px;
+  padding: 10px;
+  margin-bottom: 30px;
+  border: 1px;
+  border-radius: 5px;
+}
+@media (max-width: 1200px) {
+  #title {
+    font-size: 20px;
+  }
 }

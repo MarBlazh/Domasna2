@@ -1,0 +1,93 @@
+body {
+  background-blend-mode: darken;
+  background-image: url("pinkpicture.3f02f0f2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#title {
+  size: 50px;
+  color: #db7093;
+  text-align: center;
+  background-color: #000;
+  border: 15px dashed #8a2be2;
+  border-top-color: currentColor;
+  border-radius: 30px;
+  margin: 20px 100px;
+  padding: 30px;
+  font-size: 40px;
+  position: fixed;
+  top: 1px;
+  left: 100px;
+  right: 100px;
+}
+
+#title2 {
+  color: #00f;
+  text-align: center;
+  border-style: dotted;
+  border: 10px 8px;
+  background-image: url("venecija2.2609aabd.jpg");
+  background-position: center;
+  background-size: cover;
+  border-color: #00f;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+  margin: 30px 70px;
+  padding: 20px 40px;
+  font-size: 30px;
+  font-style: italic;
+  text-decoration: underline;
+  position: sticky;
+  top: 170px;
+}
+
+.picture {
+  text-align: center;
+  border: 80px 60px;
+  box-sizing: border-box;
+  background-color: azure;
+  border-style: inset;
+  border-color: #000;
+  margin: 150px 60px;
+  padding: 60px;
+}
+
+#title3 {
+  text-align: center;
+  text-shadow: black;
+  margin: 30px 60px;
+  font-size: 40px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+form {
+  text-align: center;
+  background-color: #ffdab9;
+  border-radius: 10px;
+  margin: 250px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  border: 1px;
+  border-radius: 5px;
+  width: 100px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+@media (width <= 1200px) {
+  #title {
+    font-size: 20px;
+  }
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
