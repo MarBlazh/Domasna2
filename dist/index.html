@@ -1,25 +1,30 @@
 <html>
-  <head></head>
+  <head>
+    <title>Venice trip</title>
+    <meta>
+  </head>
   <body>
-    <center>
-      <h1>Venice, Italy</h1>
-      <h2>Book your trip to Venice</h2>
-      <img src="/venecija1.1bfa7aab.jpg" alt="" width="600" height="300">
+    
+      <h1 id="title">Venice, Italy</h1>
+      <h2 class="title2">Book your trip to Venice</h2>
+      <p class="picture"><img src="/venecija1.1bfa7aab.jpg" alt="" width="600" height="300">
+      </p>
       <h3></h3>
-
+      
       <p>
-       </p><h3> Look for more information about this incredible city
+       </p><h3 class="title3"> Look for more information about this incredible city
         <a href="https://venicelover.com/">Venice</a> </h3>
       <p></p>
-      <p>
+      <p class="picture">
         <img src="/venecija2.2609aabd.jpg" alt="" width="300" height="400">
       </p>
       <p>
         Explore the thing you can do in Venice, by clicking
-        <a href="https://www.tripadvisor.co.uk/Attractions-g187870-Activities-Venice_Veneto.html">here</a>
+        <a href="https://www.tripadvisor.co.uk/Attractions-g187870-Activities-Venice_Veneto.html">
+          here</a>
       </p>
       <div>
-        <form action="" method="post">
+        <form action="" method="GET" enctype="application/x-www-form-urlencoded">
           <label>Want to travel with us? </label>
           <input type="checkbox">
           <br>
@@ -33,15 +38,29 @@
           <label>Surname</label>
           <input name="surname">
           <br>
+          <textarea name="information" id="" cols="30" rows="10"></textarea>
+          <br>
+          <label>Male</label>
+          <input type="radio" name="gender">
+          <label>Female</label>
+          <input type="radio" name="gender">
+          <br>
           <label>Type your email</label>
           <input type="email">
           <br>
           <label>Password</label>
           <input type="password">
           <br>
+          <p>I want to travel with<select name="drive">
+            <option value="1">Car</option>
+            <option value="2">Train</option>
+            <option value="3">Bus</option>
+          </select></p>
+          
+          <br>
           <button type="submit">Send</button>
         </form>
       </div>
-    </center>
+    
   <script src="/domasna2.3464ddca.js"></script></body>
 </html>

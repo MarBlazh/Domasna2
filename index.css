@@ -1,0 +1,16 @@
+body {
+  background-image: url ("venecijapozadina.jpg");
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+  background-size: cover;
+  background-position: center;
+}
+
+#title .title2 {
+  font-style: italic;
+  color: pink;
+}
+
+.title3 {
+  color: antiquewhite;
+}
