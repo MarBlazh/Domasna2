@@ -1,9 +1,9 @@
 body {
-  background-blend-mode: darken;
   background-image: url("pinkpicture.3f02f0f2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 #title {
@@ -73,15 +73,26 @@ form {
 }
 
 label {
+  width: 200px;
   font-weight: bold;
+  display: inline-block;
 }
 
 input {
   border: 1px;
   border-radius: 5px;
-  width: 100px;
+  width: 200px;
   margin-bottom: 30px;
   padding: 10px;
+  display: inline-block;
+}
+
+#gender label {
+  width: 30px;
+}
+
+input[type="radio"] {
+  width: 50px;
 }
 
 @media (width <= 1200px) {

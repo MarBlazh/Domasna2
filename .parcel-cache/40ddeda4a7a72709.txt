@@ -84,7 +84,7 @@
 90C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\lightningcss\node\ast.d.ts133403997362413846 0
 97C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\svgo\plugins\removeUselessDefs.js133403997365673754 0
 122C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer133403997368191876 1
-55C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist133404063279376990 1
+55C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist133404846706767731 1
 113C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\features\css-read-only-write.js133403997369676180 0
 129C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts133403997364424908 0
 68C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\.bin133403997375978713 1
@@ -92,7 +92,7 @@
 106C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\runtime-react-refresh\package.json133403997359126496 0
 84C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\json5\lib\index.d.ts133403997362449177 0
 106C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133403997369840835 0
-61C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\index.html133404048022451992 0
+61C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\index.html133404843110406837 0
 106C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\csso\cjs\restructure\8-restructRuleset.cjs133403997360610486 0
 109C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\features\referrer-policy.js133403997374100590 0
 92C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\semver\functions\rcompare.js133403997364273492 0
@@ -109,7 +109,7 @@
 89C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\utility-types\SECURITY.md133403997361844105 0
 76C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\is-json\test133403997359955922 1
 72C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\argparse133403997360761701 1
-60C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\index.css133404063502243661 0
+60C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\index.css133404846706342184 0
 130C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\collapseGroups.js133403997362275387 0
 93C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\type-fest\source\mutable.d.ts133403997363092872 0
 83C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\react-error-overlay133403997360755838 1
@@ -1857,7 +1857,7 @@
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\regions\NA.js133403997373296609 0
 125C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\csso\node_modules\css-tree\lib\definition-syntax\tokenizer.js133403997369997874 0
 86C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\msgpackr\node-index.js133403997362346011 0
-78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\venecija1.1bfa7aab.jpg133404061094682418 0
+78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\venecija1.1bfa7aab.jpg133404846599595392 0
 85C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\msgpackr\package.json133403997363554383 0
 82C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\msgpackr\README.md133403997365497484 0
 92C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\workers\src\child.js133403997360268127 0
@@ -2258,7 +2258,7 @@
 112C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\css-tree\cjs\syntax\node\PseudoClassSelector.cjs133403997367481390 0
 84C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\js-yaml\CHANGELOG.md133403997364106801 0
 98C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\css-tree\lib\syntax\node\Number.js133403997369753302 0
-80C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\pinkpicture.3f02f0f2.jpg133404061094632344 0
+80C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\pinkpicture.3f02f0f2.jpg133404846599437394 0
 85C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\js-yaml\lib\common.js133403997359284204 0
 88C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\js-yaml\lib\exception.js133403997360837712 0
 93C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\workers\lib\Handle.js133403997362170671 0
@@ -3849,7 +3849,7 @@
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\regions\JE.js133403997372112496 0
 106C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133403997360610486 0
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\regions\JO.js133403997372278716 0
-66C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.html133404061094363296 0
+66C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.html133404846599938225 0
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\regions\JP.js133403997372289262 0
 116C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins133403997366271810 1
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\regions\KE.js133403997372289262 0
@@ -4171,7 +4171,7 @@
 103C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\features\indexeddb.js133403997371950423 0
 115C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133403997363167345 0
 97C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\workers\lib\WorkerFarm.js133403997364631940 0
-74C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.9e4c6fd2.css133404063279329152 0
+74C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.9e4c6fd2.css133404846706753623 0
 104C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\caniuse-lite\data\features\indexeddb2.js133403997371950423 0
 105C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@swc\helpers\_\_skip_first_generator_next133403997370600424 1
 114C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@babel\highlight\node_modules\color-name\README.md133403997358372242 0
@@ -5149,7 +5149,7 @@
 132C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\sortDefsChildren.js133403997366285905 0
 132C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133403997358647150 0
 121C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_path.js133403997359955922 0
-78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.9e4c6fd2.css.map133404063279376990 0
+78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\index.9e4c6fd2.css.map133404846706767731 0
 121C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\css-tools.js133403997363634766 0
 116C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\path.js133403997364387853 0
 123C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\stringifier.js133403997366285905 0
@@ -5731,7 +5731,7 @@
 106C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\requests\DevDepRequest.js133403997366154038 0
 107C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\requests\PackageRequest.js133403997367447024 0
 104C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\requests\PathRequest.js133403997368028670 0
-78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\venecija2.2609aabd.jpg133404061094535278 0
+78C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\venecija2.2609aabd.jpg133404846599671547 0
 110C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\requests\ValidationRequest.js133403997369037508 0
 112C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133403997369201911 0
 96C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\@parcel\core\src\public\Asset.js133403997363297149 0
@@ -5880,7 +5880,7 @@
 77C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\.bin\svgo.ps1133403997375991902 0
 91C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\.bin\update-browserslist-db133403997375991902 0
 95C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\node_modules\.bin\update-browserslist-db.cmd133403997375991902 0
-76C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\Domasna2.3464ddca.js133404061094363296 0
-80C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\Domasna2.3464ddca.js.map133404061094491123 0
+76C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\Domasna2.3464ddca.js133404846599437394 0
+80C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\Domasna2.3464ddca.js.map133404846599671547 0
 75C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\sonce.694ed9a8.avif133403996876804141 0
 85C:\Users\User\OneDrive\Desktop\Cloneproba\Domasna2\dist\venecijapozadina.8662fc33.jpg133404001371525729 0

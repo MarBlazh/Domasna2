@@ -1,7 +1,7 @@
 body {
   background-image: url("slika/pinkpicture.jpg");
   background-repeat: no-repeat;
-  background-blend-mode: darken;
+  background-attachment: fixed;
   background-size: cover;
   background-position: center;
 }
@@ -70,13 +70,24 @@ form {
 }
 label {
   font-weight: bold;
+  width: 200px;
+  display: inline-block;
 }
 input {
-  width: 100px;
+  width: 200px;
   padding: 10px;
   margin-bottom: 30px;
   border: 1px;
   border-radius: 5px;
+  display: inline-block;
+}
+
+#gender label {
+  width: 30px;
+}
+
+input[type="radio"] {
+  width: 50px;
 }
 @media (max-width: 1200px) {
   #title {
